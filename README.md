@@ -10,7 +10,7 @@
 
 ```bash
 # 克隆模板
-git clone https://github.com/YOUR_USERNAME/CodeLove-DLC.git my-dlc
+git clone https://github.com/NewJerseyStyle/CodeLove-DLC.git my-dlc
 cd my-dlc
 rm -rf .git && git init  # 重新初始化為你的專案
 ```
