@@ -1,0 +1,15 @@
+# Ren'Py compiled files
+*.rpyc
+*.rpymc
+
+# RPA archives (generated, not source)
+*.rpa
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
