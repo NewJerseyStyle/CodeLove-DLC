@@ -245,8 +245,8 @@ DLC 採用**區域導向**設計：
 
 ## 支援
 
-- [DLC_DEVELOPER_GUIDE.md](../DLC_DEVELOPER_GUIDE.md) - 完整開發指南
-- [DLC_QUICK_REFERENCE.md](../DLC_QUICK_REFERENCE.md) - 快速參考
+- [DLC_DEVELOPER_GUIDE.md](https://github.com/NewJerseyStyle/CodeLove/blob/main/docs/DLC_DEVELOPER_GUIDE.md) - 完整開發指南
+- [DLC_QUICK_REFERENCE.md](https://github.com/NewJerseyStyle/CodeLove/blob/main/docs/DLC_QUICK_REFERENCE.md) - 快速參考
 
 ## 授權
 
